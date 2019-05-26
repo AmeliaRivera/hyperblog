@@ -1,0 +1,8 @@
+﻿Hola este es un archivo txt.
+
+Me llamo vittorio carlo, tengo 23 años
+ y estoy en el camino de 
+convertirme en desarrollador frontend
+
+Esta es mi historia
+.
