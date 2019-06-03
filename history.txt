@@ -5,6 +5,8 @@ Me llamo vittorio carlo, tengo 23 años
 convertirme en desarrollador frontend
 
 Esta es mi historia
+
+Amelia tiene 25 años y nacio en Internet
 .
 
 Esta es una nueva linea agregada
